@@ -1,0 +1,17 @@
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    
+}
+
+@media only screen and (max-width: 575px) {
+    .digi-modal {
+        width: 90vw;
+        padding: 4rem 2rem;
+    }
+    .btn-close-modal {
+        font-size: 3rem;
+    }
+}
